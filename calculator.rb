@@ -1,5 +1,6 @@
 def addition (first_number, second_number, sum)
-  sum = first_number.to_i + second_number.to_i
+  first_number = 
+  sum = first_number + second_number
   return sum
 end
   
