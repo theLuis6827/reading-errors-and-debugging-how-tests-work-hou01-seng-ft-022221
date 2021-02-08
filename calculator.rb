@@ -1,1 +1,2 @@
-first_number = "Hello World!"
+first_number = Integer
+select_number = Integer
